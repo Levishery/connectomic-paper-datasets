@@ -31,3 +31,6 @@ Collection of connectomic papers and datasets.
 
 ## visualization 
 If you want to use neuroglancer to visualize your own EM image and segmentation, please refer to my notes in /neuroglancer.
+
+## annotation process
+The ids of the glia segments we annotated is in /annotation.
