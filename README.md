@@ -1,6 +1,6 @@
 # connectomic-paper-datasets
 Collection of connectomic papers and datasets.
-Public available annotated EM datasets with papers and download paths are in [connectomic-datasets.xlsx](https://github.com/Levishery/connectomic-paper-datasets/connectomic-datasets.xlsx). Please tell me if any dataset is missing.
+Public available annotated EM datasets with papers and download paths are in [connectomic-datasets.xlsx](https://github.com/Levishery/connectomic-paper-datasets/tree/main/connectomic-datasets.xlsx). Please tell me if any dataset is missing.
 
 ## Important Papers
 ### MICrONS Cell 2022
@@ -34,7 +34,7 @@ Public available annotated EM datasets with papers and download paths are in [co
 - **Reconstruction of motor control circuits in adult Drosophila using automated transmission electron microscopy**
 
 ## visualization 
-If you want to use neuroglancer to visualize your own EM image and segmentation, please refer to my notes in [neuroglancer](https://github.com/Levishery/connectomic-paper-datasets/neuroglancer).
+If you want to use neuroglancer to visualize your own EM image and segmentation, please refer to my notes in [neuroglancer](https://github.com/Levishery/connectomic-paper-datasets/tree/main/neuroglancer).
 
 ## annotation process
-The ids of the glia segments we annotated is in [annotation](https://github.com/Levishery/connectomic-paper-datasets/annotation).
+The ids of the glia segments we annotated is in [annotation](https://github.com/Levishery/connectomic-paper-datasets/tree/main/annotation).
