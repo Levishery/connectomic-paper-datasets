@@ -2,6 +2,8 @@
 Collection of connectomic papers and datasets.
 Public available annotated EM datasets with papers and download paths are in [connectomic-datasets.xlsx](https://github.com/Levishery/connectomic-paper-datasets/tree/main/connectomic-datasets.xlsx). Please tell me if any dataset is missing.
 
+Recommended code: a deep learning framework powered by PyTorch for automatic and semi-automatic semantic and instance segmentation in connectomics, which is called [PyTorch Connectomics (PyTC)](https://github.com/zudi-lin/pytorch_connectomics). [[paper](https://arxiv.org/abs/2112.05754)]
+
 ## Important Papers
 ### MICrONS Cell 2022
 - **Multiscale and multimodal reconstruction of cortical structure and function**
