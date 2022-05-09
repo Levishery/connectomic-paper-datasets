@@ -40,6 +40,8 @@ Recommended code: a deep learning framework powered by PyTorch for automatic and
 ### Fly VNC Cell 2021
 - **Reconstruction of motor control circuits in adult Drosophila using automated transmission electron microscopy** [[dataset(Larva)](https://github.com/unidesigner/groundtruth-drosophila-vnc)]
 
+#### Learning cellular morphology Nature Communication 2019
+- **Learning cellular morphology with neural networks** [[paper](https://www.nature.com/articles/s41467-019-10836-3)][[dataset](https://structuralneurobiologylab.github.io/SyConn/)]
 ## visualization 
 If you want to use neuroglancer to visualize your own EM image and segmentation, please refer to my notes in [neuroglancer](https://github.com/Levishery/connectomic-paper-datasets/tree/main/neuroglancer).
 
