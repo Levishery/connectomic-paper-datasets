@@ -43,7 +43,7 @@ Recommended code: a deep learning framework powered by PyTorch for automatic and
 #### Learning cellular morphology Nature Communication 2019
 - **Learning cellular morphology with neural networks** [[paper](https://www.nature.com/articles/s41467-019-10836-3)][[dataset](https://structuralneurobiologylab.github.io/SyConn/)]
 ## visualization 
-If you want to use neuroglancer to visualize your own EM image and segmentation, please refer to my notes in [neuroglancer](https://github.com/Levishery/connectomic-paper-datasets/tree/main/neuroglancer).
+If you want to use neuroglancer to visualize your own EM image and segmentation, please refer to my notes in [neuroglancer_EM&seg](https://github.com/Levishery/connectomic-paper-datasets/blob/main/neuroglancer/neuroglancer%E5%8F%AF%E8%A7%86%E5%8C%96%E6%9C%AC%E5%9C%B0EM%26segmentation.pdf)
 
 ## annotation process
 The ids of the glia segments we annotated is in [annotation](https://github.com/Levishery/connectomic-paper-datasets/tree/main/annotation).
