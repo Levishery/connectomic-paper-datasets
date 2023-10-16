@@ -61,6 +61,9 @@ Recommended code: a deep learning framework powered by PyTorch for automatic and
 ### LSD | Nature Methods 2022
 - **Local shape descriptors for neuron segmentation** [[paper](https://www.nature.com/articles/s41592-022-01711-z)]
 
+### ---Error Correction Algorithm Papers---
+### Split Error Correction Through Biologically-Constrained Graphs | CVPR 2019
+- **Biologically-Constrained Graphs for Global Connectomics Reconstruction** [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Matejek_Biologically-Constrained_Graphs_for_Global_Connectomics_Reconstruction_CVPR_2019_paper.pdf)]
 
 ## visualization 
 If you want to use neuroglancer to visualize your own EM image and segmentation, please refer to my notes in [neuroglancer_EM&seg](https://github.com/Levishery/connectomic-paper-datasets/blob/main/neuroglancer/neuroglancer%E5%8F%AF%E8%A7%86%E5%8C%96%E6%9C%AC%E5%9C%B0EM%26segmentation.pdf)
