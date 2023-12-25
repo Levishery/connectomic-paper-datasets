@@ -4,7 +4,7 @@ Public available annotated EM datasets with papers and download paths are in [co
 
 Recommended code: a deep learning framework powered by PyTorch for automatic and semi-automatic semantic and instance segmentation in connectomics, which is called [PyTorch Connectomics (PyTC)](https://github.com/zudi-lin/pytorch_connectomics). [[paper](https://arxiv.org/abs/2112.05754)]
 
-## Important Papers
+## Dataset Papers
 ### MICrONS | Cell 2022
 - **Multiscale and multimodal reconstruction of cortical structure and function**
 [[Paper](https://www.biorxiv.org/content/10.1101/2020.10.14.338681v2.full.pdf)]
@@ -46,7 +46,7 @@ Recommended code: a deep learning framework powered by PyTorch for automatic and
 ### Fly VNC | Cell 2021
 - **Reconstruction of motor control circuits in adult Drosophila using automated transmission electron microscopy** [[dataset(Larva)](https://github.com/unidesigner/groundtruth-drosophila-vnc)]
 
-### ---Algorithm Papers---
+## Algorithm Papers -- Segmentation
 ### SyConn2 | Nature Methods 2022 & Nature Communication 2019
 - **Learning cellular morphology with neural networks** [[paper](https://www.nature.com/articles/s41467-019-10836-3)]
 - **SyConn2: dense synaptic connectivity inference for volume electron microscopy** [[paper](https://www.nature.com/articles/s41592-022-01624-x)]
@@ -58,13 +58,13 @@ Recommended code: a deep learning framework powered by PyTorch for automatic and
 ### LSD | Nature Methods 2022
 - **Local shape descriptors for neuron segmentation** [[paper](https://www.nature.com/articles/s41592-022-01711-z)]
 
-### ---Error Correction Algorithm Papers---
+## Algorithm Papers -- Error Correction
 ### Split Error Correction Through Biologically-Constrained Graphs | CVPR 2019
 - **Biologically-Constrained Graphs for Global Connectomics Reconstruction** [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Matejek_Biologically-Constrained_Graphs_for_Global_Connectomics_Reconstruction_CVPR_2019_paper.pdf)]
 ### Multimodal Split Error Correction | AAAI 2024
 - **Learning Multimodal Volumetric Features for Large-Scale Neuron Tracing** [[code&dataset](https://github.com/Levishery/Flywire-Neuron-Tracing)]
 
-### ---Subcompartment Classification Algorithm Papers---
+## Algorithm Papers -- Subcompartment Classification
 ### Segmentation-Guided Contrastive Learning | Nature Methods 2023
 - **Multi-Layered Maps of Neuropil with Segmentation-Guided Contrastive Learning** [[paper](https://www.nature.com/articles/s41592-023-02059-8)]
 ### Cluster-Instance Contrastive Learning | MICCAI 2022
@@ -74,5 +74,7 @@ Recommended code: a deep learning framework powered by PyTorch for automatic and
 ## visualization 
 If you want to use neuroglancer to visualize your own EM image and segmentation, please refer to my notes in [neuroglancer_EM&seg](https://github.com/Levishery/connectomic-paper-datasets/blob/main/neuroglancer/neuroglancer%E5%8F%AF%E8%A7%86%E5%8C%96%E6%9C%AC%E5%9C%B0EM%26segmentation.pdf)
 
-## annotation process
-The ids of the glia segments we annotated is in [annotation](https://github.com/Levishery/connectomic-paper-datasets/tree/main/annotation).
+## Our dataset
+FAFB-CellSeg dataset for subcompartment classification: [FAFB-CellSeg](https://github.com/Levishery/connectomic-paper-datasets/tree/main/annotation)
+
+FlyTracing dataset for split error correction: [FlyTracing](https://github.com/Levishery/Flywire-Neuron-Tracing)
